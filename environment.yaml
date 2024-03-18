@@ -1,0 +1,11 @@
+name: hurdat2-get-started
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - clouddrift
+  - notebook
+  - numpy
+  - xarray
+  - matplotlib
+  - cartopy
