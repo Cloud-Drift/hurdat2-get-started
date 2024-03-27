@@ -1,5 +1,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Cloud-Drift/hurdat2-get-started/HEAD)
 
+![Trajectories](storm_drifters.gif)
+
+> the solid lines represent drifters while the dotted lines represent storm trajectories.
+
 # hurdat2-get-started (experimental)
 This repository contains a notebooks to get you started with the [HURDAT2 dataset](https://www.aoml.noaa.gov/hrd/hurdat/Data_Storm.html) using python and the [*xarray* library](https://docs.xarray.dev/en/stable/). 
 
