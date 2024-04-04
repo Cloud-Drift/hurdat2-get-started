@@ -8,5 +8,6 @@ dependencies:
   - xarray
   - matplotlib
   - cartopy
+  - pandas
   - pip:
     - clouddrift==0.33.0
