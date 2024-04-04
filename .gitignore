@@ -1,3 +1,11 @@
+# Locally downloaded nc files
+*.nc
+
+# Any git modules setup for experimental stuff
+.gitmodules
+clouddrift
+dependencies/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
