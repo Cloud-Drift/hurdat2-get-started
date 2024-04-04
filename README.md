@@ -2,10 +2,10 @@
 
 ![Trajectories](storm_drifters.gif)
 
-> The thicker lines represent the storm tracks while the thinner lines represent the drifters. We plot only the last 50 or so point of the drifter trajectories and color the track based on the mean temperature of those points
+The animation above shows the HURDAT2 storm tracks and NOAA GDP drifter trajectories colored by sea surface temperature, from August to October 2020.
 
 # hurdat2-get-started
-This repository contains a notebooks to get you started with the [HURDAT2 dataset](https://www.aoml.noaa.gov/hrd/hurdat/Data_Storm.html) using python and the [*xarray* library](https://docs.xarray.dev/en/stable/). 
+This repository contains notebooks to get you started with the [HURDAT2 dataset](https://www.aoml.noaa.gov/hrd/hurdat/Data_Storm.html) using python and the [*xarray* library](https://docs.xarray.dev/en/stable/). 
 
 
 ## Using the examples
@@ -14,4 +14,4 @@ This repository contains a notebooks to get you started with the [HURDAT2 datase
 conda env create -n hurdat2-get-started -f environment.yaml
 ```
 
-Utilize the `hurdat2-get-started` environment for working with the notebooks
+Utilize the `hurdat2-get-started` environment for working with the notebooks.
