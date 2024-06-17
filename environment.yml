@@ -3,10 +3,10 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
+  - clouddrift=0.35
   - notebook
   - numpy
   - xarray
   - matplotlib
   - cartopy
   - pandas
-  - clouddrift
