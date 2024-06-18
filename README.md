@@ -11,7 +11,7 @@ This repository contains notebooks to get you started with the [HURDAT2 dataset]
 ## Using the examples
 1. Install the dependencies for the notebook and clouddrift:
 ```bash
-conda env create -n hurdat2-get-started -f environment.yaml
+conda env create -n hurdat2-get-started -f environment.yml
 ```
 
 Utilize the `hurdat2-get-started` environment for working with the notebooks.
