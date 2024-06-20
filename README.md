@@ -7,11 +7,6 @@
 # hurdat2-get-started
 This repository contains notebooks to get you started with the [HURDAT2 dataset](https://www.aoml.noaa.gov/hrd/hurdat/Data_Storm.html) using python and the [*xarray* library](https://docs.xarray.dev/en/stable/). 
 
+These notebooks should be readily executable in a binder environment which can be launched by clicking the "launch binder" badge above :point_up:. Alternatively, you can run locally the notebooks in a python environment containing the python libraries listed in the file `environment.yml`.
 
-## Using the examples
-1. Install the dependencies for the notebook and clouddrift:
-```bash
-conda env create -n hurdat2-get-started -f environment.yaml
-```
-
-Utilize the `hurdat2-get-started` environment for working with the notebooks.
+Feel free to contribute to this repo or raise an issue!
